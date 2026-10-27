@@ -1,6 +1,46 @@
 # Practica 04 FSE
 
-## Taabla de direcciónes
+### Objetivo
+
+Al finalizar la práctica el alumno será capaz de:
+
+- Configurar la Raspberry Pi como un punto de acceso inalámbrico.
+
+- Conectar dispositivos móviles a la red local generada.
+
+- Utilizar la aplicación Pytphox  para exponer los datos de sensores mediante una interfaz HTTP.
+
+- Desarrollar un programa que obtenga y grafique datos de varios teléfonos celulares.
+
+- Controlar periféricos conectados a la Raspberry Pi mediante mediciones de sensores remotos.
+
+#### Lista de materiales
+
+- Raspberry Pi 3B+
+
+- Laptop
+
+- Servomotor SG90
+
+- Buzzer activo
+
+- Fuente de alimentación 3.3-5V USB
+
+- Protoboard
+
+- Cables y jumpers requeridos
+
+## Desarrollo
+
+### 1. Preparación del entorno
+
+#### 1.1 Configuración de la RPI3b+ Cómo punto de acceso
+
+Todas las actividades necerias para que la RPI sea un AP
+
+## Actividad 1
+
+## Tabla de direcciones
 
 | integrante | url                      |     |
 | ---------- | ------------------------ | --- |
@@ -200,4 +240,28 @@ alumno@raspberrypi:~/04/01_act $
 
 obtenemos como resultado esta gráfica
 
-![loading-ag-221](/run/user/1000/doc/D_tkf3kw8dfDL6F6QxwgdQ/comparacion.png)
+
+
+## Actividad 2
+
+Consiste en controlar el servomotor y el buzer mediante los movimiento de dos teléfonos conectados por WIFI
+
+
+
+
+
+
+
+
+
+
+
+### Conclusiónes
+
+- sdsd
+
+- sdsds
+
+- sdsd
+
+- **Quintero Rubio Martin**: Fue maravilloso
