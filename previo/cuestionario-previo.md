@@ -4,7 +4,7 @@ Practica 04
 
 Alumno: Martin Quintero Rubio
 
-Fecha de entrega 21/octubre/2026
+Fecha de entrega 26/octubre/2026
 
 #### 1. ¿Qué se entiende por comunicación inalámbrica en un sistema embebido?
 
